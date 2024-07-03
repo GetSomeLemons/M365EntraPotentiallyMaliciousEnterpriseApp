@@ -1,0 +1,2 @@
+# M365EntraPotentiallyMaliciousEnterpriseApp
+List of potentially malicious Entra Enterprise Applications
